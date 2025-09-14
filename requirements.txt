@@ -1,6 +1,6 @@
 streamlit==1.27.0
-pandas==2.1.1
-numpy==1.26.4
+pandas>=2.2.0
+numpy>=1.26.4
 plotly==5.17.0
 sqlalchemy==2.0.25
 pymysql==1.1.1
